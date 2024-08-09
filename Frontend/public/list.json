@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "name": "AWS Cloud",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+
+    },
+
+    {
+        "id":2,
+        "name": "Story",
+        "title":"hehe",
+        "price":20,
+        "category": "Entertainment",
+        "image":"https://img.freepik.com/free-photo/realistic-stacked-books-table_23-2151359551.jpg?t=st=1722836550~exp=1722840150~hmac=f5264da6d70dc2075d9bdf75b059fd8a802e1644a5b86705a654cbb960e17cdc&w=900"
+
+    },
+
+    {
+        "id":3,
+        "name": "Networking",
+        "title":"sixth-sem",
+        "price":50,
+        "category": "CN",
+        "image":"https://img.freepik.com/free-photo/network-cloud-communication-connection-concept_53876-123814.jpg?t=st=1722899544~exp=1722903144~hmac=c4cf770366ce52c08f9e56dac492ce16ea896df7a37f1b96ce8b26ad51d87dcc&w=996"
+
+    },
+
+    {
+        "id":4,
+        "name": "Music Book",
+        "title":"vhjbbjhbjbhjbhjbjbjhbjhbj",
+        "price":100,
+        "category": "Song",
+        "image":"https://img.freepik.com/free-photo/realistic-stacked-books-table_23-2151359551.jpg?t=st=1722836550~exp=1722840150~hmac=f5264da6d70dc2075d9bdf75b059fd8a802e1644a5b86705a654cbb960e17cdc&w=900"
+
+    },
+
+    {
+        "id":5,
+        "name": "Java",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCCdLCDhY7mwKXP4bHVQ1SFZxn3pPM2QLFw&s"
+
+    },
+
+    {
+        "id":6,
+        "name": "DSA",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYepst04dt_a3Rb4gbMke0vu4e1RG5Zk0wqA&s"
+
+    },
+
+    {
+        "id":7,
+        "name": "ITCS",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigBH3S-8mXgogOtPVP1163Eb8EuQiYTA-yA&s"
+
+    },
+
+    {
+        "id":8,
+        "name": "Operating System",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSCO1cwNYt9RVlFfOGkYdQwdmlfz4Dra78qQ&s"
+
+    },
+
+   
+
+    {
+        "id":10,
+        "name": "DBMS",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://t4.ftcdn.net/jpg/05/06/26/87/360_F_506268752_sHtjZ5zvaDajcjgaTf3qUiJiPsPv63fu.jpg"
+
+    },
+
+    {
+        "id":11,
+        "name": "C++",
+        "title":"Notes",
+        "price":0,
+        "category": "Free",
+        "image":"https://t4.ftcdn.net/jpg/03/62/33/65/240_F_362336576_p9B6TtSeEfNPfgNirlMt7xe7Jd09AE5q.jpg"
+
+    }
+]

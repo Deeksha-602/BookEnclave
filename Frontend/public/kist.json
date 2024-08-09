@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "name": "TAFL",
+        "title":"Theory of Computation : by Michael Sipser",
+        "price":1,
+        "category": "Networking",
+        "image":"Tafl.jpeg"
+
+    },
+
+    {
+        "id":2,
+        "name": "DBMS",
+        "title":"Database System Concepts",
+        "price":2,
+        "category": "Database Systems",
+        "image":"https://img.freepik.com/free-photo/realistic-stacked-books-table_23-2151359551.jpg?t=st=1722836550~exp=1722840150~hmac=f5264da6d70dc2075d9bdf75b059fd8a802e1644a5b86705a654cbb960e17cdc&w=900"
+
+    },
+
+    {
+        "id":3,
+        "name": "Computer Network",
+        "title":"Theory of Computation : by Michael Sipser",
+        "price":2,
+        "category": "n",
+        "image":"https://img.freepik.com/free-photo/network-cloud-communication-connection-concept_53876-123814.jpg?t=st=1722899544~exp=1722903144~hmac=c4cf770366ce52c08f9e56dac492ce16ea896df7a37f1b96ce8b26ad51d87dcc&w=996"
+
+    },
+
+    {
+        "id":4,
+        "name": "DSA",
+        "title":"Data Structures and Algorithms in Java : by Robert Lafore",
+        "price":2,
+        "category": "n",
+        "image":"https://img.freepik.com/free-photo/realistic-stacked-books-table_23-2151359551.jpg?t=st=1722836550~exp=1722840150~hmac=f5264da6d70dc2075d9bdf75b059fd8a802e1644a5b86705a654cbb960e17cdc&w=900"
+
+    },
+
+    {
+        "id":5,
+        "name": "C programming Language",
+        "title":"The C Programming Language : by Brian W. Kernighan and Dennis M. Ritchie",
+        "price":10,
+        "category": "n",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCCdLCDhY7mwKXP4bHVQ1SFZxn3pPM2QLFw&s"
+
+    },
+
+    {
+        "id":6,
+        "name": "Java",
+        "title":"Effective Java : by Joshua Bloch",
+        "price":50,
+        "category": "n",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYepst04dt_a3Rb4gbMke0vu4e1RG5Zk0wqA&s"
+
+    },
+
+    {
+        "id":7,
+        "name": "IlCS",
+        "title":"Notes",
+        "price":10,
+        "category": "n",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigBH3S-8mXgogOtPVP1163Eb8EuQiYTA-yA&s"
+
+    },
+
+    {
+        "id":8,
+        "name": "erating System",
+        "title":"Notes",
+        "price":0,
+        "category": "n",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSCO1cwNYt9RVlFfOGkYdQwdmlfz4Dra78qQ&s"
+
+    },
+
+   
+
+    {
+        "id":10,
+        "name": "DlMS",
+        "title":"Notes",
+        "price":0,
+        "category": "n",
+        "image":"https://t4.ftcdn.net/jpg/05/06/26/87/360_F_506268752_sHtjZ5zvaDajcjgaTf3qUiJiPsPv63fu.jpg"
+
+    },
+
+    {
+        "id":11,
+        "name": "k++",
+        "title":"Notes",
+        "price":0,
+        "category": "n",
+        "image":"https://t4.ftcdn.net/jpg/03/62/33/65/240_F_362336576_p9B6TtSeEfNPfgNirlMt7xe7Jd09AE5q.jpg"
+
+    }
+]
