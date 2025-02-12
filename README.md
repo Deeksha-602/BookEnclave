@@ -11,25 +11,34 @@
 ✅ **User Authentication** – Sign up & Login functionality  
 ✅ **Course Library** – Well-organized study materials for different subjects
 ✅ **Responsive UI** – Optimized for different devices  
-✅ **Easy Navigation** – User-friendly interface for smooth browsing  
+ 
 
 
 
 ---
 
 ## 🖼️ Screenshots
+---
 
 ### **🏠 Home Page**
 ![Home Page](https://github.com/Deeksha-602/BookEnclave/blob/master/Home%20Page.png)
 
+---
+
 ### **🔐 Sign Up / Login**
 ![Sign Up](https://github.com/Deeksha-602/BookEnclave/blob/master/SignUp.png)
+
+---
 
 ### **📚 Courses**
 ![Courses](https://github.com/Deeksha-602/BookEnclave/blob/master/Courses.png)
 
+---
+
 ### **📩 Contact Us**
 ![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
+
+---
 
 ### **📩 About Us**
 ![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/About%20us.png)
