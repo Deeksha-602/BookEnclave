@@ -1,5 +1,7 @@
 # 📖 BookEnclave - Your Digital Library
 
+---
+
 🚀 **BookEnclave** The objective of BookEnclave is to create a centralized digital library where users can seamlessly access, browse, and download PDFs of books across various domains.
 
 
@@ -10,6 +12,7 @@
 ✅ **Study Materials** – PDFs and notes available for multiple domains  
 ✅ **User Authentication** – Sign up & Login functionality  
 ✅ **Course Library** – Well-organized study materials for different subjects
+
 ✅ **Responsive UI** – Optimized for different devices  
  
 
@@ -56,7 +59,6 @@
 - **Database**: MongoDB  
 - **Cloud Storage**: AWS S3  
 
----
 
 
----
+
