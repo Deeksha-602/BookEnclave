@@ -22,13 +22,18 @@
 ### **🔐 Sign Up / Login**
 ![Sign Up](https://github.com/Deeksha-602/BookEnclave/blob/master/SignUp.png)
 
+### **📚 Courses**
+![Courses](https://github.com/Deeksha-602/BookEnclave/blob/master/Courses.png)
+
 ### **📩 Contact Us**
+![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
+
+### **📩 About Us**
 ![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
 
 
 
-### **📚 Courses**
-![Courses](screenshots/courses.png)
+
 
 ---
 
