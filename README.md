@@ -2,6 +2,7 @@
 
 🚀 **BookEnclave** The objective of BookEnclave is to create a centralized digital library where users can seamlessly access, browse, and download PDFs of books across various domains.
 
+
 ---
 
 ## 🌟 Features
@@ -11,6 +12,8 @@
 ✅ **Course Library** – Well-organized study materials for different subjects
 ✅ **Responsive UI** – Optimized for different devices  
 ✅ **Easy Navigation** – User-friendly interface for smooth browsing  
+
+
 
 ---
 
@@ -29,7 +32,7 @@
 ![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
 
 ### **📩 About Us**
-![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
+![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/About%20us.png)
 
 
 
@@ -46,9 +49,5 @@
 
 ---
 
-## 📞 Contact
-
-For any queries, reach out at:  
-📧 **Email**: [contact@bookenclave.com](mailto:contact@bookenclave.com)  
 
 ---
