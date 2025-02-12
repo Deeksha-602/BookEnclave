@@ -8,7 +8,7 @@
 
 ✅ **Study Materials** – PDFs and notes available for multiple domains  
 ✅ **User Authentication** – Sign up & Login functionality  
-✅ **Course Library** – Well-organized study materials for different subjects  
+✅ **Course Library** – Well-organized study materials for different subjects
 ✅ **Responsive UI** – Optimized for different devices  
 ✅ **Easy Navigation** – User-friendly interface for smooth browsing  
 
