@@ -17,7 +17,7 @@
 ## 🖼️ Screenshots
 
 ### **🏠 Home Page**
-![Home Page](Home Page.png)
+![Home Page](https://github.com/Deeksha-602/BookEnclave/blob/master/Home%20Page.png)
 
 ### **📩 Contact Us**
 ![Contact Us](screenshots/.png)
