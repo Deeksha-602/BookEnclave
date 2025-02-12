@@ -17,7 +17,7 @@
 ## 🖼️ Screenshots
 
 ### **🏠 Home Page**
-![Home Page](screenshots/Home Page.png)
+![Home Page](Home Page.png)
 
 ### **📩 Contact Us**
 ![Contact Us](screenshots/.png)
