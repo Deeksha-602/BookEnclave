@@ -20,7 +20,7 @@
 ![Home Page](https://github.com/Deeksha-602/BookEnclave/blob/master/Home%20Page.png)
 
 ### **📩 Contact Us**
-![Contact Us](screenshots/.png)
+![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
 
 ### **🔐 Sign Up / Login**
 ![Sign Up](screenshots/signup.png)
