@@ -19,11 +19,13 @@
 ### **🏠 Home Page**
 ![Home Page](https://github.com/Deeksha-602/BookEnclave/blob/master/Home%20Page.png)
 
+### **🔐 Sign Up / Login**
+![Sign Up](https://github.com/Deeksha-602/BookEnclave/blob/master/SignUp.png)
+
 ### **📩 Contact Us**
 ![Contact Us](https://github.com/Deeksha-602/BookEnclave/blob/master/Contact%20us.png)
 
-### **🔐 Sign Up / Login**
-![Sign Up](screenshots/signup.png)
+
 
 ### **📚 Courses**
 ![Courses](screenshots/courses.png)
